@@ -1,4 +1,4 @@
-module git.woa.com/mingkunhu/wxrobot
+module github.com/Godhuu/wxrobot
 
 go 1.17
 
